@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-12T12:02:52 CST" name="Default suite" finished-at="2023-02-12T12:03:04 CST" duration-ms="12023">
+    <groups>
+    </groups>
+    <test started-at="2023-02-12T12:02:52 CST" name="Default test" finished-at="2023-02-12T12:03:04 CST" duration-ms="12023">
+      <class name="login.CreateAccount">
+        <test-method signature="testNGAsserts()[pri:0, instance:login.CreateAccount@2b91004a]" started-at="2023-02-12T12:02:52 CST" name="testNGAsserts" finished-at="2023-02-12T12:03:04 CST" duration-ms="12000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNGAsserts -->
+      </class> <!-- login.CreateAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
